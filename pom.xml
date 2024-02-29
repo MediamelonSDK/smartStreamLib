@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.github.MediamelonSDK</groupId>
   <artifactId>smartStreamLib</artifactId>
-  <version>1.0</version>
+  <version>1.0.2</version>
   <packaging>pom</packaging>
   <description>MediaMelon SDK for Kaltura OTT Player</description>
 </project>
